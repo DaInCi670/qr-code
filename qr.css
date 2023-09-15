@@ -52,16 +52,16 @@ body{
 }
 
 
-@media (max-width: 400px){
+@media (max-width: 600px){
     body{
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .container{
-        margin-left: 5px;
-        margin-right:10px;
-        margin-top: 40%;
+        margin-left: 5%;
+        margin-right:5%;
+        margin-top: 5%;
         height:600px;
         align-content: center;
     }
