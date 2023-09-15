@@ -59,9 +59,9 @@ body{
         align-items: center;
     }
     .container{
-        margin-left: 5%;
-        margin-right:5%;
-        margin-top: 5%;
+        margin-left: 10px;
+        margin-right:10px;
+        margin-top: 30%;
         height:600px;
         align-content: center;
     }
