@@ -54,7 +54,7 @@ body{
         align-items: center;
     }
     .container{
-        width: 200pxpx;
+        margin: 10px 30px;
         height:400px;
         align-content: center;
     }
