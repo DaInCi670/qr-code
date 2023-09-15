@@ -58,7 +58,7 @@ body{
         display: flex;
     }
     .container{
-        width: 70%;
+        width: 80%;
         position:relative;
         top: 300px;
     }
